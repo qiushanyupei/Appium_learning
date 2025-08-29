@@ -1,0 +1,5 @@
+导入虚拟机：
+1、需要重新初始化所有网卡的Mac地址，因为别人可能也有这个虚拟机，为了保证MAC地址全球唯一，必须要更换MAC地址
+2、其他暂时默认
+启动虚拟机：
+1、不使用Oracle VM virtualbox，而是用Genymotion启动。virtualbox会把Android系统当成Linux电脑系统启动
