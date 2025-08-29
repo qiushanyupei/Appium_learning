@@ -1,0 +1,8 @@
+英文全名：Android Debug Bridge
+基本功能：
+1、装软件apk
+2、获取手机基本信息
+组成部分：
+1、Client端，运行在开发机器中,用来发送adb命令
+2、Daemon守护进程：运行在调试设备中，手机或模拟器，用来接受、执行adb命令
+3、Server端，运行在开发机器中，管理Client和Daemon之间的通信
