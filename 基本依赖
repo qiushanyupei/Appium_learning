@@ -1,3 +1,3 @@
 1、java jdk
 2、Android SDK包含adb(通过Android Studio->ctrl+alt+shift+s->SDK Location->查看SDK安装位置->有的话就说明已经安装)
-3、安卓模拟器（Genymotion相关）
+3、安卓模拟器（Genymotion相关）virtualbox主要支持ova格式的虚拟机(Open Virtual Appliance)
