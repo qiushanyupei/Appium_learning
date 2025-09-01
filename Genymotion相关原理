@@ -1,0 +1,3 @@
+安装apk需要Genymotion-ARM-Translation的插件原因：
+Genymotion 默认的安卓虚拟机是基于 x86 架构 的镜像，而大部分apk是基于ARM架构编译，所以需要该插件作为从x86到ARM的指令翻译器
+
